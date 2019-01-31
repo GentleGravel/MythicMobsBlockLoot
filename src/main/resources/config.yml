@@ -1,0 +1,7 @@
+enabled: true
+items:
+#  SPONGE:1: # wet sponge
+#    BanditTunic: # MythicMobs item name
+#      amount: 1 # amount of item to spawn (not randomized)
+#      chance: 0.25 # probability of item spawning out of 1 (100%)
+

@@ -1,0 +1,6 @@
+name: MythicMobsBlockLoot
+version: @version@
+main: com.gentlegravel.mmblockloot.MmBlockLoot
+depend: [MythicMobs]
+description: Add chance of MythicMobs items drops when breaking specific blocks
+author: GentleGravel
